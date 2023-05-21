@@ -98,7 +98,7 @@ namespace nihongo
 
             //listView2.Items.Add(lol);
             label6.Text = "Ваша жизнь = " + hp;
-            label7.Text = "Правльных угаданых иероглифоф =" + xp;
+            label7.Text = "Правльных угаданых иероглифов =" + xp;
 
             if (hp==0)
             {
